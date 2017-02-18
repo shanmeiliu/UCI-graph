@@ -3,4 +3,7 @@ My attempt to join a research group by giving solution to an assigned problem on
 I was hoping to do my PhD and pursue an academic career, so I tried to join a research group in UCI, I solved the problem in one day, the professor thought 
 it was a thorough solution
 and I did successfully joined the group, but I didn't continue since I have too many other things to deal with and I feel I am not very passionate about 
-research, it was a nice experience for me anyway
+research, it was a nice experience for me anyway.
+
+Sample data and original problem can be found at
+http://www.ics.uci.edu/~wayne/research/students/
